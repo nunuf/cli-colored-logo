@@ -1,0 +1,20 @@
+{
+  "name": "cli-colored-logo",
+  "version": "1.0.0",
+  "description": "Print logo on the console",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "logo",
+    "console.log",
+    "javascript",
+    "cli"
+  ],
+  "author": "nunuf",
+  "license": "MIT",
+  "bin": {
+    "logo": "app.js"
+  }
+}

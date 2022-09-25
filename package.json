@@ -16,5 +16,9 @@
   "license": "MIT",
   "bin": {
     "logo": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nunuf/cli-colored-logo.git"
   }
 }

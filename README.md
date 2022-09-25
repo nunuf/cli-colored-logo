@@ -34,4 +34,4 @@ Can have one of the following options (case-insensitive):<br/>
 
 ## License
 
-MIT © 2022
+MIT © 2022 nunuf

@@ -252,8 +252,8 @@
       char = text[j];
       line += Characters[char][i];
     };
-    line = line.replaceAll(' *', ' ' + color + '*');
-    line = line.replaceAll('* ', '*' + none + ' ');
+    line = line.replace(/\s\*/g, ' ' + color + '*');
+    line = line.replace(/\*\s/g, '*' + none + ' ');
     if (line[0] === ' ') {
       line = none + line;
     } else {

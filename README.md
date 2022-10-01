@@ -4,6 +4,13 @@ This cli allows you to enter a text and a color (one of seven colors of your cho
 
 <br/>
 
+## Install
+
+```
+npm i -g cli-colored-logo
+```
+<br/>
+
 ## Usage
 
 ```
